@@ -1,0 +1,9 @@
+{
+  "name": "ember-steakhouse-reservations",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Responsive Ember Steakhouse reservation website prototype",
+  "scripts": {
+    "start": "node server.js"
+  }
+}
